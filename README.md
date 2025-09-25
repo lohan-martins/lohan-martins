@@ -14,9 +14,6 @@
 <picture>
   <!-- Mobile - nothing-->
   <source media="(max-width:650px)" width="0" srcset="#">
-
-  <!-- Desktop -->
-  <img align=left width=145 src="https://camo.githubusercontent.com/9bf0d07d3a42b1b1c7ba5772b4e9c56656e68725f68e657660f0fcfddc6ccf31/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31302f34363839363138342d62363739666338302d636533302d313165382d383862662d3932316539623738386637632e6769663f726573697a653d323030253243323030">
 </picture>
 
 <!-- Imagem - Right - Cenário gif ou Mascote do Git -->
@@ -92,15 +89,6 @@
 
   <!-- Desktop -->
   <img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lohan-Martins&hide_border=true&icon_color=35527A&theme=github_dark_blue"/>
-</picture>
-
-<!-- Estatísticas - Mobile - Only -->
-<picture>
-  <!-- Mobile -->
-  <source media="(max-width:650px)" width="100%" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohan-Martins&hide_border=true&theme=github_dark&layout=compact">
-
-  <!-- Desktop -->
-  <img width="0" src="#"/>
 </picture>
 
 
